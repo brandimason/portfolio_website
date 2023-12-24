@@ -6,8 +6,8 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('images/heroImage.jpeg');
-    background-size:cover;
+    background: url('images/black.jpeg');
+    background-size :cover;
     position:relative;
 }
 
@@ -54,10 +54,10 @@
     text-align: center;
 }
 .card:hover .servicesIcon {
-    color: #008000;
+    color: #a340d7;
 }
 .servicesText:hover {
-    border: 1px solid #008000;
+    border: 1px solid #a340d7;
 }
 
 /* social media icons styling */
@@ -66,7 +66,7 @@
     cursor: pointer;
 }
 .fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
-    color: #008000;
+    color: #7a1db4;
 }
 .fab {
     color: #000000;
