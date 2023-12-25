@@ -19,7 +19,7 @@
     font-size: 2rem;
 }
 .hero-text {
-    text-align: center;
+    text-align: left;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -73,6 +73,6 @@
 }
 /* footer styling */
 #footer {
-    background-color: #808080;
-    text-align: center;
+    background-color: #000000;
+    text-align: left;
 }
